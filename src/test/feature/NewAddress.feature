@@ -8,3 +8,5 @@ Feature: Making new address
     Examples:
       | alias | address   | city       | postCode | country        | phone      |
       | address| Gorka 10  | Gdansk     | 80-888   | United Kingdom | 555555555  |
+
+
